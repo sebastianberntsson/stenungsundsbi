@@ -6,8 +6,11 @@ fixa slidern, möjligtvis hitta en annan modul för det
 * Galleri > Bilder
 fixa gallerian
 
-* för intresserade / produkter / bli biodlare 
+* produkter / bli biodlare 
 fixa dom här sidorna
+
+* för intresserade
+Slängde in texten.
 
 * Hitta oss
 klura ut hur man kan lägga ut statisk information som telefon nr osv.

@@ -1,0 +1,24 @@
+* Framsidan
+fixa den dynamiska artikel rutan (artiklarna dyker upp automatiskt i "Main page content" blocken, men den behöver positioneras)
+fixa den dynamiska textrutan som ska få folk att bli intresserade
+fixa slidern, möjligtvis hitta en annan modul för det
+
+* Galleri > Bilder
+fixa gallerian
+
+* för intresserade 
+fixa stil
+
+* produkter / bli biodlare 
+fixa dom här sidorna
+
+* Hitta oss
+klura ut hur man kan lägga ut statisk information som telefon nr osv.
+fixa en karta med GMap modulen (google maps)
+
+* Övrigt
+fixa dropdown menyn (diskutera om vi ens ska ha video uppladdning. eller om vi ska länka in youtube på nått vänster)
+fixa bilduppladdning och taxonomi osv
+
+* CSS
+ändra färger och stil så att det passar med våran moodboard

@@ -14,19 +14,8 @@ klura ut hur man kan lägga ut statisk information som telefon nr osv.
 fixa en karta med GMap modulen (google maps)
 
 * Övrigt
-fixa dropdown menyn på galleri
+fixa dropdown menyn (diskutera om vi ens ska ha video uppladdning. eller om vi ska länka in youtube på nått vänster)
 fixa bilduppladdning och taxonomi osv
 
 * CSS
-.view-content {
-display: none;
-}
-
-.view-field-title {
-display: none;
-}
-
-för att ändra slideshow storlek pröva:
-#views_slideshow_singleframe_teaser_section_view_newsfeed_bottomOfPage-block_1 {
-height: (numer)px !important;
-}
+ändra färger och stil så att det passar med våran moodboard

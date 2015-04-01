@@ -14,7 +14,10 @@ fixa dom här sidorna
 
 * Hitta oss
 klura ut hur man kan lägga ut statisk information som telefon nr osv.
+
 fixa en karta med GMap modulen (google maps)
+steg 1: http://www.webwash.net/tutorials/how-store-addresses-drupal-7-using-location-module
+steg 2: http://www.webwash.net/tutorials/how-display-maps-using-gmap-views-and-location-drupal-7
 
 * Övrigt
 fixa dropdown menyn (diskutera om vi ens ska ha video uppladdning. eller om vi ska länka in youtube på nått vänster)

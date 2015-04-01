@@ -1,23 +1,13 @@
 1. diskutera om nyheter äns behövs (pager osv)
-2. vad fan ska vi göra med produkter sidan
+2. klura ut vad vi ska göra med produkter sidan
 3. fixa gallerian (jens)
 4. fixa hitta oss (fredrik)
-5. bestäm en wireframe på  bli biodlare
-6. ändra sidans stil/färger för att bättre passa moodboarden
+5. fixa nån slags youtube klipp inläggning på Galleri > Filmer sidan
+6. bestäm en wireframe på  bli biodlare
+7. ändra sidans stil/färger för att bättre passa moodboarden
 
 * Framsidan
-fixa den dynamiska artikel rutan (artiklarna dyker upp automatiskt i "Main page content" blocken, men den behöver positioneras)
-fixa den dynamiska textrutan som ska få folk att bli intresserade
-fixa slidern, möjligtvis hitta en annan modul för det
-
-* Galleri > Bilder
-fixa gallerian
-
-* för intresserade 
-fixa stil
-
-* produkter / bli biodlare 
-fixa dom här sidorna
+fixa den statiska textrutan som ska få folk att bli intresserade
 
 * Hitta oss
 klura ut hur man kan lägga ut statisk information som telefon nr osv.
@@ -25,10 +15,6 @@ klura ut hur man kan lägga ut statisk information som telefon nr osv.
 fixa en karta med GMap modulen (google maps)
 steg 1: http://www.webwash.net/tutorials/how-store-addresses-drupal-7-using-location-module
 steg 2: http://www.webwash.net/tutorials/how-display-maps-using-gmap-views-and-location-drupal-7
-
-* Övrigt
-fixa dropdown menyn (diskutera om vi ens ska ha video uppladdning. eller om vi ska länka in youtube på nått vänster)
-fixa bilduppladdning och taxonomi osv
 
 * CSS
 ändra färger och stil så att det passar med våran moodboard

@@ -1,3 +1,10 @@
+1. diskutera om nyheter äns behövs (pager osv)
+2. vad fan ska vi göra med produkter sidan
+3. fixa gallerian (jens)
+4. fixa hitta oss (fredrik)
+5. bestäm en wireframe på  bli biodlare
+6. ändra sidans stil/färger för att bättre passa moodboarden
+
 * Framsidan
 fixa den dynamiska artikel rutan (artiklarna dyker upp automatiskt i "Main page content" blocken, men den behöver positioneras)
 fixa den dynamiska textrutan som ska få folk att bli intresserade

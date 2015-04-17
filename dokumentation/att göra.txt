@@ -1,20 +1,10 @@
 1. diskutera om nyheter äns behövs (pager osv)
 2. klura ut vad vi ska göra med produkter sidan
-3. fixa gallerian (jens)
-4. fixa hitta oss (fredrik)
-5. fixa nån slags youtube klipp inläggning på Galleri > Filmer sidan
-6. bestäm en wireframe på  bli biodlare
-7. ändra sidans stil/färger för att bättre passa moodboarden
+3. fixa hitta oss (mårten)
+4. ändra sidans stil/färger för att bättre passa moodboarden
 
 * Framsidan
 fixa den statiska textrutan som ska få folk att bli intresserade
-
-* Hitta oss
-klura ut hur man kan lägga ut statisk information som telefon nr osv.
-
-fixa en karta med GMap modulen (google maps)
-steg 1: http://www.webwash.net/tutorials/how-store-addresses-drupal-7-using-location-module
-steg 2: http://www.webwash.net/tutorials/how-display-maps-using-gmap-views-and-location-drupal-7
 
 * CSS
 ändra färger och stil så att det passar med våran moodboard

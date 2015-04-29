@@ -1,10 +1,3 @@
-1. diskutera om nyheter äns behövs (pager osv)
-2. klura ut vad vi ska göra med produkter sidan
-3. fixa hitta oss (mårten)
-4. ändra sidans stil/färger för att bättre passa moodboarden
-
-* Framsidan
-fixa den statiska textrutan som ska få folk att bli intresserade
-
-* CSS
-ändra färger och stil så att det passar med våran moodboard
+* fixa bakgrund på nyheterna på framsidan
+* fixa bli biodlare sidan (lägg till bilder och försök fixa så att varje underrubrik har sin egen bakgrund)
+* fixa storleken på texten på kontakta oss sidan

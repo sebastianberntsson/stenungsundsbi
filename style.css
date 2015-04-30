@@ -148,6 +148,11 @@ p {
 	display: none;
 }
 
+.view-bli-biodlare-frontpage {
+	margin-top: 1%;
+	padding-top: 0px;
+}
+
 .main-container .row {
 	margin-top: 1%;
 }
